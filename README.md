@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Exploring Robotics, AI, Computer Vision, machine Learning
-🤖 Passionate about building intelligent systems and real-world robotic applications  
-📂 Check out my projects and experience on my LinkedIn  
-
-
-
 ```javascript
 const aditya = {
   pronouns: "he" | "him",
@@ -30,6 +24,10 @@ const aditya = {
 }
 ```
 
+
+- 🌱 &nbsp;Exploring Robotics, Machine Learning, Computer Vision, and AI
+- 💬 &nbsp;open to ideas, collabs, and building cool stuff together 
+- 
 ### Connect with me
 <a href="https://x.com/iAditya_Dev">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
