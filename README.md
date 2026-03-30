@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 Exploring Robotics, AI, Computer Vision, machine Learning
+🤖 Passionate about building intelligent systems and real-world robotic applications  
+📂 Check out my projects and experience on my LinkedIn  
+
+
+
 ```javascript
 const aditya = {
   pronouns: "he" | "him",
