@@ -27,7 +27,7 @@ const aditya = {
 
 - 🌱 &nbsp;Exploring Robotics, Machine Learning, Computer Vision, and AI
 - 💬 &nbsp;open to ideas, collabs, and building cool stuff together 
-- 
+  
 ### Connect with me
 <a href="https://x.com/iAditya_Dev">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
