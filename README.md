@@ -15,17 +15,12 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const aditya = {
+  pronouns: "he" | "him",
+  code: [Python, C++, Java, JavaScript],
+  domains: ["AI/ML", "Computer Vision", "Robotics"],
+  tools: [ROS2, Gazebo, OpenCV, TensorFlow, PyTorch, Firebase, AWS],
+  challenge: "Leveling up daily in AI/ML and Robotics 🚀"
 }
 ```
 
