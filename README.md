@@ -32,10 +32,10 @@ const aditya = {
 <a href="https://x.com/iAditya_Dev">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/iadityadev/">
+<a href="adityadevsingh16@gmail.com">
   <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gmail.svg" />
 </a>
-<a href="adityadevsingh16@gmail.com">
+<a href="https://www.linkedin.com/in/iadityadev/">
   <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <br/><br/>
