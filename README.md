@@ -45,3 +45,6 @@ const aditya = {
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IAdityaDev&theme=gotham)](https://git.io/streak-stats)
+<!--
+[![Aditya Dev Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAdityaDev)](https://github.com/anuraghazra/github-readme-stats)
+-->
