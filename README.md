@@ -19,7 +19,7 @@ const aditya = {
   pronouns: "he" | "him",
   code: [Python, C++, Java, JavaScript],
   domains: ["AI/ML", "Computer Vision", "Robotics"],
-  tools: [ROS2, Gazebo, OpenCV, TensorFlow, PyTorch, Firebase, AWS],
+  tools: [ROS2, Gazebo, OpenCV, TensorFlow, PyTorch],
   challenge: "Leveling up daily in AI/ML and Robotics 🚀"
 }
 ```
